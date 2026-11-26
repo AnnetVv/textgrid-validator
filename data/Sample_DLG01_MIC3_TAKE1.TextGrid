@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "SPK-A-text" 
+        xmin = 0 
+        xmax = 12 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3 
+            text = "*у* Добрий день, як справи?" 
+        intervals [2]:
+            xmin = 3 
+            xmax = 6 
+            text = "" 
+        intervals [3]:
+            xmin = 6 
+            xmax = 9 
+            text = "Дякую, усе гаразд *см*" 
+        intervals [4]:
+            xmin = 9 
+            xmax = 12 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "SPK-A-emo" 
+        xmin = 0 
+        xmax = 12 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3 
+            text = "n" 
+        intervals [2]:
+            xmin = 3 
+            xmax = 6 
+            text = "" 
+        intervals [3]:
+            xmin = 6 
+            xmax = 9 
+            text = "j1" 
+        intervals [4]:
+            xmin = 9 
+            xmax = 12 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "SPK-B-text" 
+        xmin = 0 
+        xmax = 12 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3 
+            text = "" 
+        intervals [2]:
+            xmin = 3 
+            xmax = 6 
+            text = "*у* Чудово, а в тебе?" 
+        intervals [3]:
+            xmin = 6 
+            xmax = 9 
+            text = "" 
+        intervals [4]:
+            xmin = 9 
+            xmax = 12 
+            text = "Теж непогано." 
+    item [4]:
+        class = "IntervalTier" 
+        name = "SPK-B-emo" 
+        xmin = 0 
+        xmax = 12 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3 
+            text = "" 
+        intervals [2]:
+            xmin = 3 
+            xmax = 6 
+            text = "j2" 
+        intervals [3]:
+            xmin = 6 
+            xmax = 9 
+            text = "" 
+        intervals [4]:
+            xmin = 9 
+            xmax = 12 
+            text = "n" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "clap-sync" 
+        xmin = 0 
+        xmax = 12 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5 
+            text = "" 
+        intervals [2]:
+            xmin = 5 
+            xmax = 5.5 
+            text = "clap" 
+        intervals [3]:
+            xmin = 5.5 
+            xmax = 12 
+            text = "" 
